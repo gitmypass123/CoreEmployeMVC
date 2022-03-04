@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<style>
+    td {
+        width: 50px;
+        text-align: center;
+    }
+</style>
+
+<table>
+
+
+    @if (ViewData["WeekDay"] != null)
+    {
+        // your code
+
+        foreach (string WeekDay in (string[])ViewData["WeekDay"])
+        {
+            <td>
+                @WeekDay
+            </td>
+        }
+
+    }
+</table>

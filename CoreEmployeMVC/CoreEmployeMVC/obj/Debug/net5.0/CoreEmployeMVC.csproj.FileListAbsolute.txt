@@ -1,0 +1,318 @@
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\appsettings.Development.json
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\appsettings.json
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\CoreEmployeMVC.exe
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\CoreEmployeMVC.deps.json
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\CoreEmployeMVC.runtimeconfig.json
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\CoreEmployeMVC.runtimeconfig.dev.json
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\CoreEmployeMVC.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ref\CoreEmployeMVC.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\CoreEmployeMVC.pdb
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\CoreEmployeMVC.Views.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\CoreEmployeMVC.Views.pdb
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.csproj.AssemblyReference.cache
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.AssemblyInfoInputs.cache
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.AssemblyInfo.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.csproj.CoreCompileInputs.cache
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.RazorAssemblyInfo.cache
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.RazorAssemblyInfo.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\staticwebassets\CoreEmployeMVC.StaticWebAssets.Manifest.cache
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\staticwebassets\CoreEmployeMVC.StaticWebAssets.xml
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\scopedcss\bundle\CoreEmployeMVC.styles.css
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.TagHelpers.input.cache
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.TagHelpers.output.cache
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.RazorCoreGenerate.cache
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.RazorTargetAssemblyInfo.cache
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.RazorTargetAssemblyInfo.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.Views.pdb
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\ref\CoreEmployeMVC.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.pdb
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.genruntimeconfig.cache
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.csproj.CopyComplete
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Humanizer.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Employe\Create.cshtml.g.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\HR\Index.cshtml.g.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Dapper.dll
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Engineering\ADD.cshtml.g.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Prodction\ADD.cshtml.g.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\HR\ADD.cshtml.g.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Accountancy\ADD.cshtml.g.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Detail\AllworksHours.cshtml.g.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Detail\AllOTHour.cshtml.g.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Detail\TotalWorkHr.cshtml.g.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Detail\TotalOTHr.cshtml.g.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Detail\FinalTotal.cshtml.g.cs
+D:\Company C#\EmpManagementIII\MVC.ASP.NETCORE\EmployeMVC.Net.Core\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Employe\EmployeList.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\appsettings.Development.json
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\appsettings.json
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\CoreEmployeMVC.exe
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\CoreEmployeMVC.deps.json
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\CoreEmployeMVC.runtimeconfig.json
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\CoreEmployeMVC.runtimeconfig.dev.json
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\CoreEmployeMVC.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ref\CoreEmployeMVC.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\CoreEmployeMVC.pdb
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\CoreEmployeMVC.Views.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\CoreEmployeMVC.Views.pdb
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Dapper.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Humanizer.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.csproj.AssemblyReference.cache
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.AssemblyInfoInputs.cache
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.AssemblyInfo.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.csproj.CoreCompileInputs.cache
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.RazorAssemblyInfo.cache
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.RazorAssemblyInfo.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\staticwebassets\CoreEmployeMVC.StaticWebAssets.Manifest.cache
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\staticwebassets\CoreEmployeMVC.StaticWebAssets.xml
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\scopedcss\bundle\CoreEmployeMVC.styles.css
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.TagHelpers.input.cache
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.TagHelpers.output.cache
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.RazorCoreGenerate.cache
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Accountancy\ADD.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Detail\AllOTHour.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Detail\AllworksHours.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Detail\FinalTotal.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Detail\TotalOTHr.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Detail\TotalWorkHr.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Employe\Create.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Employe\EmployeList.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Engineering\ADD.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\HR\ADD.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\HR\Index.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Prodction\ADD.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.RazorTargetAssemblyInfo.cache
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.RazorTargetAssemblyInfo.cs
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.Views.pdb
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.csproj.CopyComplete
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\ref\CoreEmployeMVC.dll
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.pdb
+D:\C#\DotNetCore\Git\CoreEmployeMVC\CoreEmployeMVC\CoreEmployeMVC\obj\Debug\net5.0\CoreEmployeMVC.genruntimeconfig.cache

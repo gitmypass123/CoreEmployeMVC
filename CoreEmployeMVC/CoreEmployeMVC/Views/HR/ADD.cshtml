@@ -1,0 +1,583 @@
+﻿
+
+@model CoreEmployeMVC.Models.ProjectClass
+
+
+@{
+    ViewData["Title"] = "ADD";
+}
+<h2>HR Department</h2>
+
+<style>
+
+    td {
+        width: 50px;
+        text-align: center;
+    }
+
+    label {
+        width: 46px;
+        text-align: center;
+    }
+
+    .drop1 {
+        margin-left: 50px;
+    }
+
+    .drop2 {
+        margin-left: 30px;
+    }
+
+    .TextArea {
+        margin-left: 80px;
+    }
+
+    .Month {
+        margin-left: 640px;
+    }
+
+
+    .Text {
+        margin-left: 590px;
+    }
+
+    .activity {
+        margin-left: 10px;
+        width: 150px;
+    }
+</style>
+
+<br>
+<br>
+
+
+@using (Html.BeginForm("ADD", "HR", FormMethod.Post))
+{
+    @Html.DropDownListFor(item => Model.DepartmentName, ViewBag.departmetName as SelectList, "-- Select  Depatment --", new { @class = "drop2" })
+    @Html.ValidationMessageFor(model => model.DepartmentName, "", new { @class = "text-danger" })
+
+
+
+    @Html.DropDownListFor(item => Model.ProjectName, ViewBag.CategoriesList as SelectList, "-- Select Project --", new { @class = "drop1" })
+    @Html.ValidationMessageFor(model => model.ProjectName, "", new { @class = "text-danger" })
+
+
+
+
+
+
+
+
+
+
+
+    @Html.TextAreaFor(x => x.Activity, new { @class = "TextArea" })
+
+
+
+    <br>
+    <br>
+
+    <Label ID="lbl_details" runat="server" Text="Details">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Select_Month</Label>
+
+
+    @Html.DropDownList("Month", new List<SelectListItem>
+{
+        new SelectListItem{ Text="Jun", Value = "1" },
+   new SelectListItem{ Text="Feb", Value = "2" },
+   new SelectListItem{ Text="Mar", Value = "3" },
+   new SelectListItem{ Text="Apr", Value = "4" },
+   new SelectListItem{ Text="May", Value = "5" },
+   new SelectListItem{ Text="Jun", Value = "6" },
+   new SelectListItem{ Text="Jul", Value = "7" },
+   new SelectListItem{ Text="Aug", Value = "8" },
+   new SelectListItem{ Text="Sep", Value = "9" },
+   new SelectListItem{ Text="Oct", Value = "10" },
+   new SelectListItem{ Text="Nov", Value = "11" },
+   new SelectListItem{ Text="Dec", Value = "12" },
+
+
+},
+
+new { @class = "Month", id = "myId", @onchange = "getVal()" });
+
+
+
+
+
+
+
+
+
+
+    <table>
+
+
+        @if (ViewData["WeekDay"] != null)
+        {
+            // your code
+
+            foreach (string WeekDay in (string[])ViewData["WeekDay"])
+            {
+                <td>
+                    @WeekDay
+                </td>
+            }
+
+        }
+    </table>
+
+
+    <script type="text/javascript">
+        function getVal() {
+            var selectedVal = document.getElementById("myId");
+            var selectedText = selectedVal.options[selectedVal.selectedIndex].text;
+            document.getElementById('lbl1').innerHTML = selectedText;
+            document.getElementById('lbl2').innerHTML = selectedText;
+            document.getElementById('lbl3').innerHTML = selectedText;
+            document.getElementById('lbl4').innerHTML = selectedText;
+            document.getElementById('lbl5').innerHTML = selectedText;
+            document.getElementById('lbl6').innerHTML = selectedText;
+            document.getElementById('lbl7').innerHTML = selectedText;
+            document.getElementById('lbl8').innerHTML = selectedText;
+            document.getElementById('lbl9').innerHTML = selectedText;
+            document.getElementById('lbl10').innerHTML = selectedText;
+            document.getElementById('lbl11').innerHTML = selectedText;
+            document.getElementById('lbl12').innerHTML = selectedText;
+            document.getElementById('lbl13').innerHTML = selectedText;
+            document.getElementById('lbl14').innerHTML = selectedText;
+            document.getElementById('lbl15').innerHTML = selectedText;
+            document.getElementById('lbl16').innerHTML = selectedText;
+            document.getElementById('lbl17').innerHTML = selectedText;
+            document.getElementById('lbl18').innerHTML = selectedText;
+            document.getElementById('lbl19').innerHTML = selectedText;
+            document.getElementById('lbl20').innerHTML = selectedText;
+            document.getElementById('lbl21').innerHTML = selectedText;
+            document.getElementById('lbl22').innerHTML = selectedText;
+            document.getElementById('lbl23').innerHTML = selectedText;
+            document.getElementById('lbl24').innerHTML = selectedText;
+            document.getElementById('lbl25').innerHTML = selectedText;
+            document.getElementById('lbl26').innerHTML = selectedText;
+            document.getElementById('lbl27').innerHTML = selectedText;
+            document.getElementById('lbl28').innerHTML = selectedText;
+            document.getElementById('lbl29').innerHTML = selectedText;
+            document.getElementById('lbl30').innerHTML = selectedText;
+            document.getElementById('lbl31').innerHTML = selectedText;
+
+
+        };
+    </script>
+
+
+
+    <label id="lbl1"></label>
+    <label id="lbl2"></label>
+    <label id="lbl3"></label>
+    <label id="lbl4"></label>
+    <label id="lbl5"></label>
+    <label id="lbl6"></label>
+    <label id="lbl7"></label>
+    <label id="lbl8"></label>
+    <label id="lbl9"></label>
+    <label id="lbl10"></label>
+    <label id="lbl11"></label>
+    <label id="lbl12"></label>
+    <label id="lbl13"></label>
+    <label id="lbl14"></label>
+    <label id="lbl15"></label>
+
+
+    <table>
+
+
+        @if (ViewData["Month"] != null)
+        {
+            // your code
+
+            foreach (string month in (string[])ViewData["Month"])
+            {
+
+                <td>
+
+                    @month
+                </td>
+
+
+
+            }
+
+        }
+
+    </table>
+
+
+
+
+
+
+    <table>
+
+
+        <div class="container">
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work1, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot1, new { @class = "form-control" })
+            </div>
+        </td>
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work2, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot2, new { @class = "form-control" })
+            </div>
+        </td>
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work3, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot3, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work4, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot4, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work5, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot5, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work6, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot6, new { @class = "form-control" })
+            </div>
+        </td>
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work7, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot7, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work8, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot8, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work9, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot9, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work10, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot10, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work11, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot11, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work12, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot12, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work13, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot13, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work14, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot14, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work15, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot15, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+
+
+        </div>
+    </table>
+
+
+    <br>
+    <br />
+    <table>
+
+
+        @if (ViewData["WeekDay2List"] != null)
+        {
+            // your code
+
+            foreach (string WeekDay2 in (string[])ViewData["WeekDay2List"])
+            {
+                <td>
+                    @WeekDay2
+                </td>
+            }
+
+        }
+    </table>
+
+    <label id="lbl16"></label>
+    <label id="lbl17"></label>
+    <label id="lbl18"></label>
+    <label id="lbl19"></label>
+    <label id="lbl20"></label>
+    <label id="lbl21"></label>
+    <label id="lbl22"></label>
+    <label id="lbl23"></label>
+    <label id="lbl24"></label>
+    <label id="lbl25"></label>
+    <label id="lbl26"></label>
+    <label id="lbl27"></label>
+    <label id="lbl28"></label>
+    <label id="lbl29"></label>
+    <label id="lbl30"></label>
+    <label id="lbl31"></label>
+
+
+
+    <table>
+
+
+        @if (ViewData["Month2"] != null)
+        {
+            // your code
+
+            foreach (string month2 in (string[])ViewData["Month2"])
+            {
+                <td>
+                    @month2
+                </td>
+            }
+
+        }
+
+    </table>
+
+
+    <table>
+
+
+        <div class="container">
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work16, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot16, new { @class = "form-control" })
+            </div>
+        </td>
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work17, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot17, new { @class = "form-control" })
+            </div>
+        </td>
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work18, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot18, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work19, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot19, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work20, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot20, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work21, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot21, new { @class = "form-control" })
+            </div>
+        </td>
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work22, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot22, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work23, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot23, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work24, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot24, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work25, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot25, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work26, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot26, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work27, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot27, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work28, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot28, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work29, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot29, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work30, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot30, new { @class = "form-control" })
+            </div>
+        </td>
+
+        <td>
+            <div class="form-group">
+
+                @Html.TextBoxFor(x => x.work31, new { @class = "form-control" })
+                @Html.TextBoxFor(x => x.ot31, new { @class = "form-control" })
+            </div>
+        </td>
+
+
+        </div>
+    </table>
+
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">ADD</button>
+    </div>
+}
+

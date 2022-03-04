@@ -1,0 +1,38 @@
+﻿@model IEnumerable<CoreEmployeMVC.Models.Detail>
+
+@{
+    ViewData["Title"] = "FinalTotal";
+}
+
+<h1>FinalTotal</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DepartmentName)
+            </th>
+            
+         
+            <th>
+                @Html.DisplayNameFor(model => model.total)
+            </th>
+           
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DepartmentName)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.total)
+            </td>
+            
+        </tr>
+}
+    </tbody>
+</table>
